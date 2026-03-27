@@ -272,6 +272,17 @@ This project avoids that failure mode by design:
 
 ---
 
+## Immediate Next Steps
+
+1. **Establish home** — Public GitLab or GitHub presence under the Interface Commons name
+2. **Subproject 1 kickoff** — Research and consolidation phase; structured intake of existing HIGs and protocol specs
+3. **Protocol YAML format** — Design the unified structured format that feeds the engine
+4. **Publish this document** — As the project's public-facing README
+5. **First outreach** — 2–3 high-visibility apps as initial targets; open well-formed proof-of-concept issues
+6. **Community anchor** — postmarketOS Matrix, GNOME Discourse, KDE forums
+
+---
+
 ## Related Prior Art to Study
 
 - **freedesktop.org** — The model for neutral, cross-desktop Linux protocol coordination
@@ -281,8 +292,6 @@ This project avoids that failure mode by design:
 - **XDG Portals** — A model for app–shell capability negotiation
 - **GNOME Mobile initiative** — The closest existing effort; defines one boundary of what this project is not
 
-
----
 ---
 
 *This document is a living draft. It will be updated as the research phase produces findings and as the founding community shapes the project's direction.*
